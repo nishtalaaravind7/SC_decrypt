@@ -7,3 +7,5 @@ There is an input file "testInput.txt", a output file "testOutput.txt" and frequ
 
 Run the program using jupyter notebook (in anaconda navigator) with bigrams.txt, testOutput.txt, testInput.txt, war-and-peace.txt in a single folder.
 
+In "testOutput.txt" file, we can get the decrypted text and the key.
+
