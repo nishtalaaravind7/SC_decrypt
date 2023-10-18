@@ -23,4 +23,4 @@ Now run the program.
      ./decryptsub 
 Now we use this command for running THE 10000 iterations in the code.
 
-After the code executes corectly we get "testOutput.txt" file which is present in the same directory. We can find the decrypted text and key.
+After code executes corectly we get "testOutput.txt" file which is present in the same directory. We can find the decrypted text and key.
